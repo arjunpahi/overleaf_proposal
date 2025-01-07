@@ -1,2 +1,2 @@
 # overleaf_proposal
-bsc_fourth_year_proposal
+bsc_fourth_year_proposal_just_practice
